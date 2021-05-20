@@ -8,7 +8,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/1/20;Castilla-La Mancha;0;1;0;0
 15/1/20;Cataluna;0;70;1;0
 15/1/20;Ceuta y Melilla;0;0;0;0
-15/1/20;Comunidad Valenciana;0;25;0;0
+15/1/20;Comunitat Valenciana;0;25;0;0
 15/1/20;Extremadura;0;0;0;0
 15/1/20;Galicia;0;2;1;0
 15/1/20;Islas Baleares;0;0;0;0
@@ -26,7 +26,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 31/1/20;Castilla-La Mancha;0;1;0;0
 31/1/20;Cataluna;0;105;2;0
 31/1/20;Ceuta y Melilla;0;0;0;0
-31/1/20;Comunidad Valenciana;0;39;0;0
+31/1/20;Comunitat Valenciana;0;39;0;0
 31/1/20;Extremadura;0;0;0;0
 31/1/20;Galicia;0;9;2;0
 31/1/20;Islas Baleares;0;0;0;0
@@ -44,7 +44,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/2/20;Castilla-La Mancha;0;1;0;0
 15/2/20;Cataluna;1;173;2;0
 15/2/20;Ceuta y Melilla;0;0;0;0
-15/2/20;Comunidad Valenciana;0;46;1;1
+15/2/20;Comunitat Valenciana;0;46;1;1
 15/2/20;Extremadura;0;0;0;0
 15/2/20;Galicia;0;13;3;0
 15/2/20;Islas Baleares;1;1;0;0
@@ -62,7 +62,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 29/2/20;Castilla-La Mancha;0;13;3;0
 29/2/20;Cataluna;7;320;7;0
 29/2/20;Ceuta y Melilla;0;0;0;0
-29/2/20;Comunidad Valenciana;15;74;5;1
+29/2/20;Comunitat Valenciana;15;74;5;1
 29/2/20;Extremadura;2;4;0;0
 29/2/20;Galicia;0;22;4;0
 29/2/20;Islas Baleares;4;3;0;0
@@ -80,7 +80,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/3/20;Castilla-La Mancha;593;529;50;33
 15/3/20;Cataluna;1498;1444;121;44
 15/3/20;Ceuta y Melilla;18;5;0;0
-15/3/20;Comunidad Valenciana;566;366;51;14
+15/3/20;Comunitat Valenciana;566;366;51;14
 15/3/20;Extremadura;140;45;6;2
 15/3/20;Galicia;250;109;16;2
 15/3/20;Islas Baleares;126;58;14;3
@@ -98,7 +98,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 31/3/20;Castilla-La Mancha;8083;5666;394;1113
 31/3/20;Cataluna;22570;11384;1079;2010
 31/3/20;Ceuta y Melilla;114;42;6;2
-31/3/20;Comunidad Valenciana;6596;4024;570;482
+31/3/20;Comunitat Valenciana;6596;4024;570;482
 31/3/20;Extremadura;1680;749;77;170
 31/3/20;Galicia;4960;1627;200;135
 31/3/20;Islas Baleares;1237;674;125;61
@@ -116,7 +116,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/4/20;Castilla-La Mancha;13983;8401;510;2148
 15/4/20;Cataluna;38152;16836;1460;4381
 15/4/20;Ceuta y Melilla;197;52;7;6
-15/4/20;Comunidad Valenciana;9837;5359;702;1080
+15/4/20;Comunitat Valenciana;9837;5359;702;1080
 15/4/20;Extremadura;2465;1085;104;368
 15/4/20;Galicia;7960;2447;274;429
 15/4/20;Islas Baleares;1820;1012;159;152
@@ -134,7 +134,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 30/4/20;Castilla-La Mancha;16195;9504;548;2647
 30/4/20;Cataluna;46588;18449;1538;5719
 30/4/20;Ceuta y Melilla;216;54;7;6
-30/4/20;Comunidad Valenciana;10951;5708;722;1303
+30/4/20;Comunitat Valenciana;10951;5708;722;1303
 30/4/20;Extremadura;2939;1251;109;457
 30/4/20;Galicia;8897;2704;301;564
 30/4/20;Islas Baleares;1988;1113;165;204
@@ -152,7 +152,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/5/20;Castilla-La Mancha;17520;10170;566;2853
 15/5/20;Cataluna;48857;18905;1562;6251
 15/5/20;Ceuta y Melilla;236;55;7;6
-15/5/20;Comunidad Valenciana;11459;5851;733;1409
+15/5/20;Comunitat Valenciana;11459;5851;733;1409
 15/5/20;Extremadura;3140;1316;112;494
 15/5/20;Galicia;9170;2817;314;605
 15/5/20;Islas Baleares;2085;1135;168;221
@@ -170,7 +170,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 31/5/20;Castilla-La Mancha;18229;10256;577;2934
 31/5/20;Cataluna;52373;19106;1573;6433
 31/5/20;Ceuta y Melilla;268;58;7;6
-31/5/20;Comunidad Valenciana;11765;5880;736;1441
+31/5/20;Comunitat Valenciana;11765;5880;736;1441
 31/5/20;Extremadura;3188;1336;112;510
 31/5/20;Galicia;9263;2839;315;615
 31/5/20;Islas Baleares;2181;1146;169;226
@@ -188,7 +188,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/6/20;Castilla-La Mancha;18659;10313;583;2952
 15/6/20;Cataluna;54170;19237;1583;6498
 15/6/20;Ceuta y Melilla;288;60;7;7
-15/6/20;Comunidad Valenciana;11964;5897;737;1450
+15/6/20;Comunitat Valenciana;11964;5897;737;1450
 15/6/20;Extremadura;3213;1339;112;513
 15/6/20;Galicia;9289;2844;315;618
 15/6/20;Islas Baleares;2239;1149;169;226
@@ -206,7 +206,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 30/6/20;Castilla-La Mancha;18978;10363;585;2964
 30/6/20;Cataluna;55776;19311;1590;6519
 30/6/20;Ceuta y Melilla;290;60;7;7
-30/6/20;Comunidad Valenciana;12143;5919;739;1455
+30/6/20;Comunitat Valenciana;12143;5919;739;1455
 30/6/20;Extremadura;3259;1341;112;513
 30/6/20;Galicia;9354;2850;315;618
 30/6/20;Islas Baleares;2300;1152;170;227
@@ -224,7 +224,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/7/20;Castilla-La Mancha;19321;10439;590;2971
 15/7/20;Cataluna;61599;19481;1604;6532
 15/7/20;Ceuta y Melilla;293;61;7;7
-15/7/20;Comunidad Valenciana;12456;5960;742;1455
+15/7/20;Comunitat Valenciana;12456;5960;742;1455
 15/7/20;Extremadura;3439;1346;113;513
 15/7/20;Galicia;9610;2866;317;618
 15/7/20;Islas Baleares;2367;1156;170;229
@@ -242,7 +242,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 31/7/20;Castilla-La Mancha;19857;10468;593;2977
 31/7/20;Cataluna;76971;19820;1632;6596
 31/7/20;Ceuta y Melilla;303;62;7;7
-31/7/20;Comunidad Valenciana;14507;6090;753;1461
+31/7/20;Comunitat Valenciana;14507;6090;753;1461
 31/7/20;Extremadura;3638;1359;116;514
 31/7/20;Galicia;9891;2890;319;618
 31/7/20;Islas Baleares;2759;1181;172;230
@@ -260,7 +260,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/8/20;Castilla-La Mancha;21676;10533;602;2989
 15/8/20;Cataluna;90350;20260;1675;6693
 15/8/20;Ceuta y Melilla;379;67;7;7
-15/8/20;Comunidad Valenciana;19284;6465;777;1473
+15/8/20;Comunitat Valenciana;19284;6465;777;1473
 15/8/20;Extremadura;4076;1382;119;517
 15/8/20;Galicia;11158;2971;329;624
 15/8/20;Islas Baleares;5399;1257;185;231
@@ -278,7 +278,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 31/8/20;Castilla-La Mancha;27090;10695;618;3013
 31/8/20;Cataluna;106991;20754;1724;6829
 31/8/20;Ceuta y Melilla;651;86;8;8
-31/8/20;Comunidad Valenciana;27756;7068;835;1518
+31/8/20;Comunitat Valenciana;27756;7068;835;1518
 31/8/20;Extremadura;5344;1446;127;521
 31/8/20;Galicia;14822;3241;351;643
 31/8/20;Islas Baleares;9883;1501;234;264
@@ -296,7 +296,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/9/20;Castilla-La Mancha;36454;11042;653;3091
 15/9/20;Cataluna;122245;21338;1771;6977
 15/9/20;Ceuta y Melilla;1099;113;14;14
-15/9/20;Comunidad Valenciana;36296;7742;910;1592
+15/9/20;Comunitat Valenciana;36296;7742;910;1592
 15/9/20;Extremadura;7833;1593;140;535
 15/9/20;Galicia;18417;3605;382;695
 15/9/20;Islas Baleares;12357;1753;266;304
@@ -314,7 +314,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 30/9/20;Castilla-La Mancha;47009;11502;693;3219
 30/9/20;Cataluna;138714;21941;1825;7133
 30/9/20;Ceuta y Melilla;1693;148;19;17
-30/9/20;Comunidad Valenciana;42935;8298;983;1668
+30/9/20;Comunitat Valenciana;42935;8298;983;1668
 30/9/20;Extremadura;10942;1849;154;596
 30/9/20;Galicia;21671;3895;424;746
 30/9/20;Islas Baleares;14475;1912;289;351
@@ -332,7 +332,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/10/20;Castilla-La Mancha;56082;12016;736;3362
 15/10/20;Cataluna;168497;22964;1907;7328
 15/10/20;Ceuta y Melilla;2611;201;24;25
-15/10/20;Comunidad Valenciana;50995;9001;1047;1744
+15/10/20;Comunitat Valenciana;50995;9001;1047;1744
 15/10/20;Extremadura;13891;2023;168;658
 15/10/20;Galicia;25858;4268;468;809
 15/10/20;Islas Baleares;16098;2024;303;379
@@ -350,7 +350,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 31/10/20;Castilla-La Mancha;70461;12702;799;3551
 31/10/20;Cataluna;237326;24991;2079;7895
 31/10/20;Ceuta y Melilla;4771;325;35;49
-31/10/20;Comunidad Valenciana;72701;10709;1207;1898
+31/10/20;Comunitat Valenciana;72701;10709;1207;1898
 31/10/20;Extremadura;20432;2456;199;741
 31/10/20;Galicia;35243;5047;566;931
 31/10/20;Islas Baleares;19169;2184;324;397
@@ -368,7 +368,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/11/20;Castilla-La Mancha;82234;13424;865;3804
 15/11/20;Cataluna;281077;26961;2240;8791
 15/11/20;Ceuta y Melilla;6220;429;56;81
-15/11/20;Comunidad Valenciana;97915;12855;1434;2180
+15/11/20;Comunitat Valenciana;97915;12855;1434;2180
 15/11/20;Extremadura;25964;2897;241;862
 15/11/20;Galicia;43830;5840;677;1080
 15/11/20;Islas Baleares;22272;2386;361;430
@@ -386,7 +386,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 30/11/20;Castilla-La Mancha;89068;13901;913;4022
 30/11/20;Cataluna;302499;28236;2340;9474
 30/11/20;Ceuta y Melilla;6911;482;64;97
-30/11/20;Comunidad Valenciana;115279;14546;1628;2513
+30/11/20;Comunitat Valenciana;115279;14546;1628;2513
 30/11/20;Extremadura;28584;3141;267;968
 30/11/20;Galicia;50573;6403;748;1231
 30/11/20;Islas Baleares;24885;2552;385;452
@@ -404,7 +404,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/12/20;Castilla-La Mancha;95381;14292;946;4192
 15/12/20;Cataluna;321739;29092;2403;9992
 15/12/20;Ceuta y Melilla;7276;516;66;100
-15/12/20;Comunidad Valenciana;132845;15899;1754;2797
+15/12/20;Comunitat Valenciana;132845;15899;1754;2797
 15/12/20;Extremadura;31038;3271;278;1024
 15/12/20;Galicia;55641;6895;806;1323
 15/12/20;Islas Baleares;29015;2767;416;484
@@ -422,7 +422,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 31/12/20;Castilla-La Mancha;105768;14831;1006;4349
 31/12/20;Cataluna;357565;30326;2499;10525
 31/12/20;Ceuta y Melilla;7651;533;68;106
-31/12/20;Comunidad Valenciana;170380;18466;1972;3219
+31/12/20;Comunitat Valenciana;170380;18466;1972;3219
 31/12/20;Extremadura;37644;3548;294;1078
 31/12/20;Galicia;61857;7455;877;1397
 31/12/20;Islas Baleares;36784;3197;476;544
@@ -440,7 +440,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/1/21;Castilla-La Mancha;130811;15845;1099;4571
 15/1/21;Cataluna;407927;32108;2648;11271
 15/1/21;Ceuta y Melilla;8575;578;76;112
-15/1/21;Comunidad Valenciana;252071;23320;2375;4048
+15/1/21;Comunitat Valenciana;252071;23320;2375;4048
 15/1/21;Extremadura;52760;4187;343;1222
 15/1/21;Galicia;74033;8321;1003;1504
 15/1/21;Islas Baleares;45393;3614;556;619
@@ -458,7 +458,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 31/1/21;Castilla-La Mancha;160783;17501;1283;5120
 31/1/21;Cataluna;455155;34140;2855;12379
 31/1/21;Ceuta y Melilla;10103;680;93;124
-31/1/21;Comunidad Valenciana;346680;30555;2918;5761
+31/1/21;Comunitat Valenciana;346680;30555;2918;5761
 31/1/21;Extremadura;65320;5167;442;1505
 31/1/21;Galicia;98025;10350;1316;1812
 31/1/21;Islas Baleares;53085;4131;638;709
@@ -476,7 +476,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/2/21;Castilla-La Mancha;169564;18040;1318;5513
 15/2/21;Cataluna;482994;35396;2960;13084
 15/2/21;Ceuta y Melilla;11101;730;102;138
-15/2/21;Comunidad Valenciana;375000;33177;3179;6780
+15/2/21;Comunitat Valenciana;375000;33177;3179;6780
 15/2/21;Extremadura;67954;5477;474;1680
 15/2/21;Galicia;108711;11602;1526;2115
 15/2/21;Islas Baleares;55426;4332;678;787
@@ -494,7 +494,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 28/2/21;Castilla-La Mancha;171674;18173;1331;5633
 28/2/21;Cataluna;498986;36121;3019;13435
 28/2/21;Ceuta y Melilla;11575;756;109;156
-28/2/21;Comunidad Valenciana;380304;33753;3241;7114
+28/2/21;Comunitat Valenciana;380304;33753;3241;7114
 28/2/21;Extremadura;68459;5539;482;1718
 28/2/21;Galicia;112139;12068;1600;2233
 28/2/21;Islas Baleares;56282;4399;682;808
@@ -512,7 +512,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/3/21;Castilla-La Mancha;173542;18285;1340;5697
 15/3/21;Cataluna;514568;36956;3074;13711
 15/3/21;Ceuta y Melilla;12256;813;122;165
-15/3/21;Comunidad Valenciana;382811;34016;3283;7239
+15/3/21;Comunitat Valenciana;382811;34016;3283;7239
 15/3/21;Extremadura;69157;5582;486;1735
 15/3/21;Galicia;114426;12386;1657;2286
 15/3/21;Islas Baleares;56834;4450;691;821
@@ -530,7 +530,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 31/3/21;Castilla-La Mancha;176513;18460;1353;5737
 31/3/21;Cataluna;535243;37899;3162;13889
 31/3/21;Ceuta y Melilla;13061;882;136;176
-31/3/21;Comunidad Valenciana;384752;34244;3313;7282
+31/3/21;Comunitat Valenciana;384752;34244;3313;7282
 31/3/21;Extremadura;70454;5675;495;1742
 31/3/21;Galicia;116735;12658;1695;2325
 31/3/21;Islas Baleares;57781;4490;694;825
@@ -548,7 +548,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/4/21;Castilla-La Mancha;181027;18680;1379;5792
 15/4/21;Cataluna;556659;38859;3265;14090
 15/4/21;Ceuta y Melilla;13978;987;149;187
-15/4/21;Comunidad Valenciana;386859;34460;3340;7304
+15/4/21;Comunitat Valenciana;386859;34460;3340;7304
 15/4/21;Extremadura;72071;5797;503;1759
 15/4/21;Galicia;119206;12896;1726;2355
 15/4/21;Islas Baleares;58577;4530;703;827
@@ -566,7 +566,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 30/4/21;Castilla-La Mancha;186267;18853;1391;5840
 30/4/21;Cataluna;581423;39661;3328;14226
 30/4/21;Ceuta y Melilla;14492;1038;160;195
-30/4/21;Comunidad Valenciana;389340;34674;3374;7320
+30/4/21;Comunitat Valenciana;389340;34674;3374;7320
 30/4/21;Extremadura;73341;5901;513;1773
 30/4/21;Galicia;122174;13204;1781;2375
 30/4/21;Islas Baleares;59375;4587;710;832
@@ -584,7 +584,7 @@ fecha;ccaa;confirmados;hospitalizados;uci;fallecidos
 15/5/21;Castilla-La Mancha;189606;18963;1397;5866
 15/5/21;Cataluna;596869;40184;3370;14310
 15/5/21;Ceuta y Melilla;14740;1065;165;211
-15/5/21;Comunidad Valenciana;391026;34782;3382;7336
+15/5/21;Comunitat Valenciana;391026;34782;3382;7336
 15/5/21;Extremadura;74267;5968;525;1779
 15/5/21;Galicia;124773;13452;1816;2389
 15/5/21;Islas Baleares;60011;4624;716;836
